@@ -1,0 +1,14 @@
+/* id element must be unique */
+#title{
+  background: #333;
+  padding: 15px;
+  color: white;
+}
+/* class element bg-color1 */
+.bg-color1{
+  background: #f6f5f5;
+}
+/* class element bg-color1 in p tag */
+p.bg-color1{
+  color: red;
+}
