@@ -1,0 +1,19 @@
+Linter
+emmet
+Project-manager
+file-icons
+autocomplete-paths
+atom-clock
+imdone-atom
+open-recent
+pigments
+remote-edit
+smart-tab-name
+show-ideographic-space
+atom-beautify
+Auto-Indent
+Atom Tool Bar
+git-plus
+git-log
+tree-view-git-branch
+merge-conflict
